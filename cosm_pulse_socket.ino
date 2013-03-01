@@ -60,7 +60,7 @@ char serverName[] = "api.cosm.com";
 // Your Cosm key to let you upload data
 char feedId[] = "104810"; //FEED ID
 char cosmKey[] = "YOUR API KEY HERE"; //API KEY
-char cosmKey[] = "ewTCG0qri8i6jXsXxwXxnrAZpnKSAKxHL0tnbndNeEpPdz0g";
+
 
 // Define the strings for our datastream IDs
 char sensorId[] = "sensor_reading"; //This should not contain a space ' ' char
